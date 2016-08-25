@@ -1,4 +1,4 @@
-require 'byebug'
+
 
 def anagrams1(string)
   # O(n!)
